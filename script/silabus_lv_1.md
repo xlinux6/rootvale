@@ -17,14 +17,14 @@ Dibimbing oleh para Valerian dari 8 Ordo, pelatihan ini membawamu memahami ancam
 #### 1.1.7 Perangkat Cerdas
 #### 1.1.8 Apa yang Diinginkan Peretas?
 #### 1.1.9 Pencurian Identitas
+#### 1.1.10. Siapa Lagi yang Menginginkan Data Saya?
 
-### 1.2 Siapa Lagi yang Menginginkan Data Saya?
-#### 1.2.1 Data Organisasi
-#### 1.2.2 Jenis Data Organisasi
-#### 1.2.3 Kubus
-#### 1.2.4 Apa yang Kamu Pikirkan?
-#### 1.2.5 Apakah Ini Nyata?
-#### 1.2.6 Pelanggaran Keamanan Data
+### 1.2. Data Organisasi
+#### 1.2.1. Jenis Data Organisasi
+#### 1.2.2.	Kubus
+#### 1.2.3.	Apa yang Kamu Pikirkan?
+#### 1.2.4.	Apakah Ini Nyata?
+#### 1.2.5.	Pelanggaran Keamanan Data
 
 ### 1.3 Konsekuensi Pelanggaran Keamanan
 #### 1.3.1 Apa yang diambil?
